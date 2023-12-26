@@ -6,12 +6,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>SMM PANEL</title>
+        <link rel="icon" href="/" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="VietSMM" />
         <p className="description">
           LONG HÀ <code>pages/index.js</code>
         </p>
